@@ -1,16 +1,4 @@
-# quran
-
-Islamic program.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# quran (Islamic program).
+![home](https://user-images.githubusercontent.com/87204675/176237716-ec627834-58b7-4539-8493-abe5e445b126.jpg)
+![play audio](https://user-images.githubusercontent.com/87204675/176237798-ab4e4379-9ebb-4c7c-a6e7-9467ecddb483.jpg)
+![quran](https://user-images.githubusercontent.com/87204675/176237834-7f9349d0-6b66-40e4-a669-314597f38f6e.jpg)
