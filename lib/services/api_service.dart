@@ -14,6 +14,8 @@ class ApiServices {
   List<Surah> surah = [];
   List<Qari> qari = [];
 
+  // here api services
+
   random(min, max) {
     var number = Random();
     return min + number.nextInt(max - min);
